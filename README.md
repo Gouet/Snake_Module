@@ -1,7 +1,7 @@
 # Madule Snake Python
 
 
-Made in C++ Qt 5.8.
+Made in C++ Qt 5.9.7.
 
 Windows 10.
 
