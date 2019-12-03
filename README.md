@@ -1,5 +1,6 @@
 # Snake_Module
-Made in C++ Qt 5.8
+Made in C++ Qt 5.8.
+
 Windows 10.
 
 This environment can be reuse in python like a module.
